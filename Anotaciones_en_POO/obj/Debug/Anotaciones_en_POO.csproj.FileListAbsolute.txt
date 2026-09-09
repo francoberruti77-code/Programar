@@ -1,0 +1,10 @@
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Anotaciones_en_POO\bin\Debug\Anotaciones_en_POO.exe.config
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Anotaciones_en_POO\bin\Debug\Anotaciones_en_POO.exe
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Anotaciones_en_POO\bin\Debug\Anotaciones_en_POO.pdb
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Anotaciones_en_POO\obj\Debug\Anotaciones_en_POO.csproj.AssemblyReference.cache
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Anotaciones_en_POO\obj\Debug\Anotaciones_en_POO.Form1.resources
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Anotaciones_en_POO\obj\Debug\Anotaciones_en_POO.Properties.Resources.resources
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Anotaciones_en_POO\obj\Debug\Anotaciones_en_POO.csproj.GenerateResource.cache
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Anotaciones_en_POO\obj\Debug\Anotaciones_en_POO.csproj.CoreCompileInputs.cache
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Anotaciones_en_POO\obj\Debug\Anotaciones_en_POO.exe
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Anotaciones_en_POO\obj\Debug\Anotaciones_en_POO.pdb
