@@ -1,0 +1,11 @@
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Parametros_y_Argumentos\bin\Debug\Parametros_y_Argumentos.exe.config
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Parametros_y_Argumentos\bin\Debug\Parametros_y_Argumentos.exe
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Parametros_y_Argumentos\bin\Debug\Parametros_y_Argumentos.pdb
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Parametros_y_Argumentos\obj\Debug\Parametros_y_Argumentos.csproj.AssemblyReference.cache
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Parametros_y_Argumentos\obj\Debug\Parametros_y_Argumentos.Form1.resources
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Parametros_y_Argumentos\obj\Debug\Parametros_y_Argumentos.Properties.Resources.resources
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Parametros_y_Argumentos\obj\Debug\Parametros_y_Argumentos.csproj.GenerateResource.cache
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Parametros_y_Argumentos\obj\Debug\Parametros_y_Argumentos.csproj.CoreCompileInputs.cache
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Parametros_y_Argumentos\obj\Debug\Parametros_y_Argumentos.exe
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Parametros_y_Argumentos\obj\Debug\Parametros_y_Argumentos.pdb
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Parametros_y_Argumentos\obj\Debug\Parametros_y_Argumentos.exe.config

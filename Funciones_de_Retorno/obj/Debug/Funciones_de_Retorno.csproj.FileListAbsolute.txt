@@ -1,0 +1,10 @@
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Funciones_de_Retorno\bin\Debug\Funciones_de_Retorno.exe.config
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Funciones_de_Retorno\bin\Debug\Funciones_de_Retorno.exe
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Funciones_de_Retorno\bin\Debug\Funciones_de_Retorno.pdb
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Funciones_de_Retorno\obj\Debug\Funciones_de_Retorno.csproj.AssemblyReference.cache
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Funciones_de_Retorno\obj\Debug\Funciones_de_Retorno.Form1.resources
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Funciones_de_Retorno\obj\Debug\Funciones_de_Retorno.Properties.Resources.resources
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Funciones_de_Retorno\obj\Debug\Funciones_de_Retorno.csproj.GenerateResource.cache
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Funciones_de_Retorno\obj\Debug\Funciones_de_Retorno.csproj.CoreCompileInputs.cache
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Funciones_de_Retorno\obj\Debug\Funciones_de_Retorno.exe
+D:\Clases-grabadas-2026-y-material\proyecto-prog\Funciones_de_Retorno\obj\Debug\Funciones_de_Retorno.pdb
